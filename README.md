@@ -1,3 +1,11 @@
+
+
+# **This code doesn't install properly. just look at the files.**
+
+
+repo : [https://github.com/Code-Pop/Vue-3-Forms.git](https://github.com/Code-Pop/Vue-3-Forms.git)
+
+
 # Vue 3 Forms
 
 ## Project setup
@@ -19,6 +27,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
